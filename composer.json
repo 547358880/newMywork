@@ -1,0 +1,16 @@
+{
+    "name": "administrator/new-mywork",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Xujing",
+            "email": "547358880@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }   
+}
